@@ -51,6 +51,18 @@ ul li{
     padding-left: 10%;
     color: aliceblue;
 }
+.header_text{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    word-spacing: 15px;
+    padding: 10px;
+}
+.but_img{
+    width: 30px;
+    align-items: start;
+}
+.app_button{
+    margin-left: 210px;
+}
 
 
 
