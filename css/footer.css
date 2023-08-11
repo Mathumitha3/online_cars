@@ -1,26 +1,10 @@
-.img_logo{
-    width: 50%;
-    padding-left: 37%;
-    padding-top: 5%;
-}
-.nav_container{
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
-.content{
-    text-align: center;
-}
-
-.model{
-    width: 100%;
-    padding-left: 5%;
-}
-
 .footer{
     background-color: rgb(0, 2, 4);
     color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
 }
-.footer_container{
-    max-width: 2100px;
+.row{
+    max-width: 2000px;
     box-sizing: border-box;
     padding-left: 10%;
     padding-right: 10%;
@@ -50,19 +34,4 @@ ul li{
     padding-left: 10%;
     color: aliceblue;
 }
-.header_text{
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    word-spacing: 15px;
-    padding: 10px;
-}
-.but_img{
-    width: 30px;
-    align-items: start;
-}
-.app_button{
-    margin-left: 210px;
-}
-
-
-
 
