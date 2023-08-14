@@ -16,12 +16,10 @@
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 3%;
-
 }
 .anchor{
     text-decoration: none;
-    color: aliceblue;
-    
+    color: aliceblue;   
 }
 ul li{
     list-style-type: none;
